@@ -4,6 +4,7 @@ FocusGuardian 설치 가이드
 
 
 # 1. 필요한 파일
+/.
 FocusGuardian/
 
 ├── newnew.py              ← 메인 코드
@@ -16,7 +17,8 @@ FocusGuardian/
     
     (best.pt 은 커스텀 모델 있으면 추가, 없으면 yolov8n.pt 자동 다운로드)
     
-models/ 폴더는 비워둬도 되고, 첫 실행 시 자동으로 채워집니다./
+models/ 폴더는 비워둬도 되고, 첫 실행 시 자동으로 채워져
+./
 
 
 
